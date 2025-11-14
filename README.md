@@ -1,13 +1,19 @@
-## Hi
+
+<img width="100%" height="300" alt="image" src="https://github.com/user-attachments/assets/a51f3d81-135a-40ed-addc-3e5bf3853c07" />
+
+
+
 ---
-<p>hi im here</p>
+
+## 👋 Hi, I'm Onais Baloch!
+## Dream Big, Code Bigger — Learning, Creating & Building My Future
 
 ---
 
 | Name | Age | Country |
 |------|-----|---------|
 | Onais  | 18  | Pakistan |
-| Sara | 22  | UAE |
+| Stay | Here  | Karachi |
 
 ---
 
@@ -95,23 +101,26 @@ I enjoy turning ideas into reality through clean and functional code.
 
 ## 🤝 Connect with me
 
-
-
-<p align="center">
-
-   <a href="https://www.facebook.com/profile.php?id=100083182095606" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-         alt="facebook" height="40" width="40"/> 
-         </a>
+<p align = "center">
+   <a href="https://www.facebook.com/profile.php?id=100083182095606" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="40" width="40"/>  </a>  
   &nbsp;&nbsp;
-
-  <a href="https:https://www.instagram.com/onaisbaloch42/" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram"  width="40" />
-  </a>
+<a href="https:https://www.instagram.com/onaisbaloch42/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram"  width="40" />
+   </a>
   &nbsp;&nbsp;
-
   <a href="https://github.com/Onais-Shafi" target="_blank">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/White/Github_white.svg" width="40" />
-  </a>
+     </a>
   </p>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Profileviews-10-blue" />
+</p>
+
+---
+
+<p>⭐ "Learning never stops — every line of code is a step closer to success."</p>
 
 
 
