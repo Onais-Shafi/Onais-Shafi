@@ -72,18 +72,18 @@ I enjoy turning ideas into reality through clean and functional code.
 ## 📊 GitHub Status
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Onais-Baloch&show_icons=true&theme=dark" 
+  <img src="https://github-readme-stats.vercel.app/api?username=Onais-Shafi&show_icons=true&theme=dark" 
        alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Onais-Baloch&theme=dark" 
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Onais-Shafi&theme=dark" 
        alt="GitHub"/>
 </p>
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onais-Baloch&layout=compact&theme=dark" 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onais-Shafi&layout=compact&theme=dark" 
        alt="Top languages"/>
 </p>
 
